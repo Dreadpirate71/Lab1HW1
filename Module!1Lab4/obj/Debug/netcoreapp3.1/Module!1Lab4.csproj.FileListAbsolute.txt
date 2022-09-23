@@ -1,0 +1,14 @@
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\Module!1Lab4\bin\Debug\netcoreapp3.1\Module!1Lab4.exe
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\Module!1Lab4\bin\Debug\netcoreapp3.1\Module!1Lab4.deps.json
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\Module!1Lab4\bin\Debug\netcoreapp3.1\Module!1Lab4.runtimeconfig.json
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\Module!1Lab4\bin\Debug\netcoreapp3.1\Module!1Lab4.runtimeconfig.dev.json
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\Module!1Lab4\bin\Debug\netcoreapp3.1\Module!1Lab4.dll
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\Module!1Lab4\bin\Debug\netcoreapp3.1\Module!1Lab4.pdb
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\Module!1Lab4\obj\Debug\netcoreapp3.1\Module!1Lab4.csproj.AssemblyReference.cache
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\Module!1Lab4\obj\Debug\netcoreapp3.1\Module!1Lab4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\Module!1Lab4\obj\Debug\netcoreapp3.1\Module!1Lab4.AssemblyInfoInputs.cache
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\Module!1Lab4\obj\Debug\netcoreapp3.1\Module!1Lab4.AssemblyInfo.cs
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\Module!1Lab4\obj\Debug\netcoreapp3.1\Module!1Lab4.csproj.CoreCompileInputs.cache
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\Module!1Lab4\obj\Debug\netcoreapp3.1\Module!1Lab4.dll
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\Module!1Lab4\obj\Debug\netcoreapp3.1\Module!1Lab4.pdb
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\Module!1Lab4\obj\Debug\netcoreapp3.1\Module!1Lab4.genruntimeconfig.cache

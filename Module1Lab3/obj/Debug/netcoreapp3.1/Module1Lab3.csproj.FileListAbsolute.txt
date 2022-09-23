@@ -11,3 +11,4 @@ C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git
 C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\Module1Lab3\obj\Debug\netcoreapp3.1\Module1Lab3.dll
 C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\Module1Lab3\obj\Debug\netcoreapp3.1\Module1Lab3.pdb
 C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\Module1Lab3\obj\Debug\netcoreapp3.1\Module1Lab3.genruntimeconfig.cache
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\Module1Lab3\obj\Debug\netcoreapp3.1\Module1Lab3.csproj.AssemblyReference.cache

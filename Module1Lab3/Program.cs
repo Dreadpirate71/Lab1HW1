@@ -22,6 +22,9 @@ namespace Module1Lab3
             string firstAdjective = Console.ReadLine();
             Console.WriteLine("Enter an adverb:");
             string firstAdverb = Console.ReadLine();
+            Console.WriteLine("{0} lived in {1} for {2} years.", properName, favoriteCity, numberOne);
+            Console.WriteLine("This was surpirsing because {0} were {1} {2} on {3} {4}.", scaryAnimal, firstAdverb, firstVerb, firstAdjective, firstNoun);
+
         }
     }
 }
