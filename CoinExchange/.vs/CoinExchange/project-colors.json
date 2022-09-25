@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "09c6f03b-8d80-4ea2-8351-7cc858728d5a": {
+      "ProjectGuid": "09c6f03b-8d80-4ea2-8351-7cc858728d5a",
+      "DisplayName": "CoinExchange",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

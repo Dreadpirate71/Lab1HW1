@@ -1,0 +1,14 @@
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\AreaOfShapes\bin\Debug\netcoreapp3.1\AreaOfShapes.exe
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\AreaOfShapes\bin\Debug\netcoreapp3.1\AreaOfShapes.deps.json
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\AreaOfShapes\bin\Debug\netcoreapp3.1\AreaOfShapes.runtimeconfig.json
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\AreaOfShapes\bin\Debug\netcoreapp3.1\AreaOfShapes.runtimeconfig.dev.json
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\AreaOfShapes\bin\Debug\netcoreapp3.1\AreaOfShapes.dll
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\AreaOfShapes\bin\Debug\netcoreapp3.1\AreaOfShapes.pdb
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\AreaOfShapes\obj\Debug\netcoreapp3.1\AreaOfShapes.csproj.AssemblyReference.cache
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\AreaOfShapes\obj\Debug\netcoreapp3.1\AreaOfShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\AreaOfShapes\obj\Debug\netcoreapp3.1\AreaOfShapes.AssemblyInfoInputs.cache
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\AreaOfShapes\obj\Debug\netcoreapp3.1\AreaOfShapes.AssemblyInfo.cs
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\AreaOfShapes\obj\Debug\netcoreapp3.1\AreaOfShapes.csproj.CoreCompileInputs.cache
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\AreaOfShapes\obj\Debug\netcoreapp3.1\AreaOfShapes.dll
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\AreaOfShapes\obj\Debug\netcoreapp3.1\AreaOfShapes.pdb
+C:\Users\James.Remus\OneDrive - Veterans United Home Loans\Documents\Code VU\git\Lab1HW1\AreaOfShapes\obj\Debug\netcoreapp3.1\AreaOfShapes.genruntimeconfig.cache
